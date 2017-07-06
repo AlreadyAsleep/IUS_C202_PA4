@@ -8,6 +8,7 @@ The efficiency of the algorithm for this program could definitely be improved. T
 <h3>Outputs</h3>
 Words found: 796518
 
+
 Words not found: 173165 
 
 Comparisons made that found a match: 2530198496
