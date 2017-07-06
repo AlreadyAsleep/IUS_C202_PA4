@@ -6,8 +6,8 @@ This problem is essentially to design a basic spell check program for a text fil
 
 The efficiency of the algorithm for this program could definitely be improved. The space complexity is not terrible as only N node objects are being created that only contain strings and a reference. However, the time complexity of this algorithm is clearly O(NK), with K being the number of words in the dictionary that begin with the queried character, and N being the number of words in the file. Using a strictly linear data structure will cause this inherently, however if a tree like structure was used that could be more easily traversed, the time complexity would improve dramatically. In the case of this particular test case, after ten executions the program took 1’45’’ to execute completely. 
 <h3>Outputs</h3>
-Words found: 796518
 
+Words found: 796518
 
 Words not found: 173165 
 
