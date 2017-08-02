@@ -294,11 +294,6 @@ public class MyLinkedList<E> extends MyAbstractList<E> {
              temp.element = e;
              return n;
          }
-    }
-    
-    /**
-     methods for lab 8 should be implemented here
-     */
     
     
     
